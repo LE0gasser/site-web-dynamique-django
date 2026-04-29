@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221db52c-f4b5-4d38-9122-878fbe2f1235" name="Changes" comment="push">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/myfirstapp/templates/myfirstapp/formulaire.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/myfirstapp/templates/myfirstapp/formulaire.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstproject/myfirstapp/templates/myfirstapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/myfirstapp/templates/myfirstapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +29,14 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LE0gasser"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/LE0gasser/site-web-dynamique-django.git",
@@ -104,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777460845386</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="push">
+      <option name="closed" value="true" />
+      <created>1777461184282</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777461184282</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
