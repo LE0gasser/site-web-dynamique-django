@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="221db52c-f4b5-4d38-9122-878fbe2f1235" name="Changes" comment="push">
-      <change afterPath="$PROJECT_DIR$/firstproject/myfirstapp/templates/myfirstapp/heritage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstproject/bibliotheque/urls.app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstproject/myfirstapp/form.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/myfirstapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/myfirstapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/myfirstapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/myfirstapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/firstproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/firstproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstproject/myfirstapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/firstproject/myfirstapp/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -64,6 +65,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\e2500616\PycharmProjects\site-web-dynamique-django\firstproject\bibliotheque" />
+      <recent name="C:\Users\e2500616\PycharmProjects\site-web-dynamique-django\firstproject" />
+      <recent name="C:\Users\e2500616\PycharmProjects\site-web-dynamique-django" />
       <recent name="C:\Users\e2500616\PycharmProjects\Django\firstproject\myfirststapp" />
     </key>
   </component>
@@ -138,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778070681207</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="push">
+      <option name="closed" value="true" />
+      <created>1778072459820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1778072459820</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
