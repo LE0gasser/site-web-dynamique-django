@@ -6,5 +6,7 @@ def index(request):
 def formulaire(request):
     return render(request, 'myfirstapp/formulaire.html')
 def bonjour(request):
-    nom = request.GET["nom"]
-    return render(request, 'myfirstapp/bonjour.html',{"nom":nom})
+    name = request.GET["name"]
+    return render(request, 'myfirstapp/bonjour.html',{"nom":name})
+def heritage(request):
+    return render(request, 'myfirstapp/heritage.html')
